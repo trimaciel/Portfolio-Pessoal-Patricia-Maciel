@@ -4,7 +4,7 @@
 
 Este projeto consiste em um portfólio pessoal desenvolvido com HTML e CSS. Ele apresenta informações sobre minha formação acadêmica, experiência profissional, cursos realizados e links para minhas redes sociais. O objetivo é demonstrar minhas habilidades e experiências na área de Business Intelligence, Business Analytics e Processos.
 
-Estrutura do Projeto
+## 📜Estrutura do Projeto
 
 O portfólio é composto por três páginas HTML:
 
