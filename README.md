@@ -26,7 +26,7 @@ Currículo (curriculo.html): Experiência profissional, formação acadêmica e 
 
 ## 🚀 Resultados
 
-[https://portfolio-pessoal-patricia-maciel.vercel.app/index.html
+https://portfolio-pessoal-patricia-maciel.vercel.app/index.html
 
 ## 💻Captura de Tela
 
