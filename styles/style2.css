@@ -192,7 +192,7 @@ body{
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-family: var(--fonte-primaria);
     
 }
@@ -202,7 +202,7 @@ body{
 }
 
 .apresentacao__conteudo__texto{
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: var(--fonte-secundaria);
     margin-bottom: 10px;
     line-height: 1.2;
