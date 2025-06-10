@@ -70,7 +70,7 @@ body{
 }
 
 .apresentacao__conteudo__texto.texto-menor {
-    font-size: 1rem;
+    font-size: 0.8rem;
     font-family: var(--fonte-secundaria);
   }
   
