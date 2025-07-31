@@ -35,6 +35,18 @@ https://portfolio-pessoal-patricia-maciel.vercel.app/index.html
 ![image](https://github.com/user-attachments/assets/6faa7146-c569-43d2-895b-b6865a7b22b8)
 
 
+## 👨‍💻 Desenvolvedora do Projeto
+
+| [<img src="https://avatars.githubusercontent.com/trimaciel" width=75><br><sub>@trimaciel</sub>](https://github.com/trimaciel) |
+|:--:|
+
+
+---
+
 🍀 **Tri Maciel**  
-📫 (trimaciel@hotmail.com / trimaciel.souza@gmail.com)  
+
+📫 trimaciel@hotmail.com 
+
+🔗 https://www.linkedin.com/in/patriciammaciel
+
 ✨ *Em frente!* 
